@@ -1,7 +1,7 @@
 {
-  "name": "Venz-Userbot",
+  "name": "Bossmuda-Userbot",
   "description": "USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/e43056fdbf77c034618aa.jpg",
+  "logo": "https://telegra.ph/file/785684e4809f7fe898b2e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/eldy020502/Venz-Userbot/Venz-Userbot",
-  "telegram": "https://t.me/vnotv",
-  "success_url": "https://t.me/venzproject",
+  "repository": "https://github.com/Bossmuda017/Bossmuda_Userbot",
+  "telegram": "https://t.me/Bossmuda017",
+  "success_url": "https://t.me/+xcScdpYQ2TU3MTll",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -24,7 +24,7 @@
     },
     "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/e43056fdbf77c034618aa.jpg",
+      "value": "https://telegra.ph/file/785684e4809f7fe898b2e.jpg",
       "required": false
     },
      "STRING_SESSION": {
